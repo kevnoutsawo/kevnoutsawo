@@ -87,12 +87,7 @@
 </a>  
 </div>  
 
-<br/>    
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-
+<br/>
 
 These are part of my ever-growing toolset:
 
