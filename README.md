@@ -4,6 +4,8 @@
   
 
 ### <div align="center">I'm Kevin, a full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kevnoutsawo)](https://github.com/ryo-ma/github-profile-trophy)
   
 <!--
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
