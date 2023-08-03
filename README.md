@@ -19,7 +19,6 @@
 <!--
 - ⚡ Fun fact: I use tabs over spaces  
 -->  
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kevnoutsawo.kevnoutsawo)
 <br/>  
 
 ### Github Stats  
